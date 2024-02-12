@@ -17,6 +17,12 @@ The code implements 3d Monte Carlo simulations originally developed in [Lee, et 
   - [Lee, et al., Journal of Neuroscience Methods 2021](https://doi.org/10.1016/j.jneumeth.2020.109018)
   - [Lee, et al., NMR in Biomedicine 2024](https://doi.org/10.1002/nbm.5087)
 
+* **Random packing generation**
+  - [Donev, et al., J Comput Phys, 2005](https://doi.org/10.1016/j.jcp.2004.08.014) and [code](https://cims.nyu.edu/~donev/Packing/C++/)
+
+* **Watson Distribution sampling**
+  - [SphericalDistributionsRand](https://www.mathworks.com/matlabcentral/fileexchange/52398-sphericaldistributionsrand)
+
 ## Authors
 * [Hong-Hsi Lee](http://www.diffusion-mri.com/people/hong-hsi-lee)
 * [Dmitry S Novikov](http://www.diffusion-mri.com/people/dmitry-novikov)
