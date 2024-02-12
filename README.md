@@ -3,7 +3,7 @@
 The code implements 3d Monte Carlo simulations originally developed in [Lee, et al., Journal of Neuroscience Methods, 2021](https://doi.org/10.1016/j.jneumeth.2020.109018), demonstrating the effect of water exchange and diffusion in-between randomly packed cylindrs or spheres on the time-dependent kurtosis in [Wu et al., Science Advances 2024 (under revision)]().
 
 * **Demo 1.1, cylinder:** We randomly pack parallel cylinders and perform diffusion simulation in-between cylinders of permeable membrane.
-* **Demo 1.2, cylinder:** We analyze the simulation result in Demo 1.1. To simulate the orientation dispersion, we sample 1,000 fiber directions for each simulation based on a Watson distribution in z-axis. Their apparent diffusivity and kurtosis transverse to the main axis are combined based on the formulat in [Lee, et al., Communications Biology 2020](https://doi.org/10.1038/s42003-020-1050-x).
+* **Demo 1.2, cylinder:** We analyze the simulation result in Demo 1.1. To simulate the orientation dispersion, we sample 1,000 fiber directions for each simulation based on a Watson distribution in z-axis. Their apparent diffusivity and kurtosis transverse to the main axis are combined based on the formula in [Lee, et al., Communications Biology 2020](https://doi.org/10.1038/s42003-020-1050-x).
 * **Demo 2.1, cylinder:** We randomly pack spheres and perform diffusion simulation in-between spheres of permeable membrane.
 * **Demo 2.2, cylinder:** We analyze the simulation result in Demo 2.1.
 * 
