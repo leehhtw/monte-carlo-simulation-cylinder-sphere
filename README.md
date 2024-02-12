@@ -1,4 +1,5 @@
 # Realistic Microstructure Simulator (RMS): Monte Carlo simulations of diffusion in randomly packed cylinders or spheres of permeable membrane (CUDA C++)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10651812.svg)](https://doi.org/10.5281/zenodo.10651812)
 
 The code implements 3d Monte Carlo simulations originally developed in [Lee, et al., Journal of Neuroscience Methods, 2021](https://doi.org/10.1016/j.jneumeth.2020.109018), demonstrating the effect of water exchange and diffusion in-between randomly packed cylindrs or spheres on the time-dependent kurtosis in [Wu et al., Science Advances 2024 (under revision)]().
 
